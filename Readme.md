@@ -4,6 +4,17 @@ Objetivo:
 
 El objetivo de este proyecto es realizar un análisis completo del comportamiento de la industria de telecomunicaciones en Argentina, con el fin de orientar a una empresa prestadora de servicios de telecomunicaciones en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
 
+Para navegar correctamente en el repositorio, paso a comentar los archivos que encontrarás aqui:
+
+- datos_originales -> archivos bases de datos originales, de los cuales se obtuvieron los datos.
+- EDA -> Análisis Exploratorio de Datos.
+- 6 archivos CSV  -> corresponden a los DF finales obtenidos a traves del notebook EDA. Para usar luego en Tableau.
+- Dashboar final: https://public.tableau.com/views/ProyectoHenry2/KPI2?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+    Aqui encontraremos 2 dashboard correspondientes a los KPI desarrollados.
+        1- Objetivo de incrementar un 2% el Acceso a internet por hogar por trimestre.
+        2- Objetivo de incrementar un 10% el Acceso a Fibra Optica por trimestre.
+        Ambos se explicaran en la presentacion personal.
+
 Tecnologías y herramientas utilizadas:
 
 Python
@@ -11,8 +22,6 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
-
-Dashboar final: https://public.tableau.com/views/ProyectoHenry2/KPI2?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
 Metodología:
 
@@ -35,3 +44,5 @@ Los principales conclusiones del análisis son los siguientes:
     * Se observa un incremento casi lineal en la penetracion de internet desde 2014 hasta 2022.
     * Es una posibilidad que ciertas provincias hayan experimentado un crecimiento más rápido que otras, lo que podría influir en la DISTRIBUCION DE LA MEDIA DE BAJADA DE MBPS en cada trimestre y año. Esto podría ser el resultado de diferencias en la infraestructura de telecomunicaciones, el desarrollo tecnológico local, el acceso a la inversión en infraestructura digital y otros factores regionales y económicos.
     * El predominio del Cablemódem en Argentina puede estar relacionado con la infraestructura previamente establecida, la asequibilidad para los consumidores, la amplia disponibilidad geográfica y la familiaridad generalizada. Estos factores han facilitado su adopción en comparación con otras tecnologías de banda ancha. Sin embargo, es importante considerar que las tendencias pueden cambiar con el tiempo a medida que se desarrollan y expanden otras infraestructuras de conectividad y la tecnología evoluciona.
+
+
