@@ -12,7 +12,9 @@ Para navegar correctamente en el repositorio, paso a comentar los archivos que e
 - Dashboar final: https://public.tableau.com/views/ProyectoHenry2/KPI2?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
     Aqui encontraremos 2 dashboard correspondientes a los KPI desarrollados.
         1- Objetivo de incrementar un 2% el Acceso a internet por hogar por trimestre.
+        ![Alt text](image.png)
         2- Objetivo de incrementar un 10% el Acceso a Fibra Optica por trimestre.
+        ![Alt text](image-1.png)
         Ambos se explicaran en la presentacion personal.
 
 Tecnologías y herramientas utilizadas:
